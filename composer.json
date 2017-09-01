@@ -2,6 +2,8 @@
     "name": "w3digital/timezones",
     "description": "First ever package built for laravel",
     "license": "MIT",
+    "type": "n",
+    "keywords":["laravel","packages","timezones"],
     "authors": [
         {
             "name": "Michael Cooper",
@@ -9,5 +11,5 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
+    "require": {}
 }
