@@ -1,0 +1,13 @@
+{
+    "name": "w3digital/timezones",
+    "description": "First ever package built for laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michael Cooper",
+            "email": "mikoop@mac.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+}
